@@ -415,7 +415,7 @@ i.fas{
     /* about */
 
     .about{
-        height: 100vh;
+        height: auto;
         padding-bottom: 4rem;
         gap: 1rem;
         padding-top: 3rem;
@@ -825,7 +825,7 @@ text-align: center  ;
     }
 
     .about{
-        height: 80vh;
+        height: auto;
     }
 
     html .contact{
@@ -848,7 +848,7 @@ text-align: center  ;
         }
 
         .about{
-            height: 90vh;
+            height: auto;
         }
 
         .education .education-row {
